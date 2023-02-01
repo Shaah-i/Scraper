@@ -31,8 +31,8 @@ The scraper code is marked with annotations to understand the process in each st
 
 Below is the diagram explaining the process of scraping for this project.
 
-<div>
-  <a><img src="file:///G:/ML%20Study/ineuron/Practice/IMDB%20Scraper/flowchart.svg" title="ScraperFlow" alt="Flowchart" width="60" height="60"/></a>&nbsp;
+<div align="center">
+<img src="https://github.com/Shaah-i/Scraper/blob/main/IMDB%20Scraper/flowchart.svg" title="ScraperFlow" alt="Flowchart" width="600"/>
 </div>
   
 ## Future Scope:
